@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=StackEdit
+Icon=/opt/extras.ubuntu.com/useful-websites/share/useful-websites/icons/stackedit_logo.svg
+Exec=x-www-browser https://stackedit.io/editor
+Comment=StackEdit
+Categories=Network;
+Terminal=false

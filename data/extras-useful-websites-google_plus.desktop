@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Google Plus
+Icon=/opt/extras.ubuntu.com/useful-websites/share/useful-websites/icons/google_plus_logo.svg
+Exec=x-www-browser https://plus.google.com/u/0/
+Comment=Google Plus
+Categories=Network;
+Terminal=false

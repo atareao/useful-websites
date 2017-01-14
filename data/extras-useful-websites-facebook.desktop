@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Facebook
+Icon=/opt/extras.ubuntu.com/useful-websites/share/useful-websites/icons/facebook_logo.svg
+Exec=x-www-browser https://www.facebook.com/
+Comment=Facebook
+Categories=Network;
+Terminal=false

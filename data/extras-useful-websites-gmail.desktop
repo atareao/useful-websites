@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Gmail
+Icon=/opt/extras.ubuntu.com/useful-websites/share/useful-websites/icons/gmail_logo.svg
+Exec=x-www-browser https://mail.google.com/mail/u/0/#inbox
+Comment=Gmail
+Categories=Network;
+Terminal=false

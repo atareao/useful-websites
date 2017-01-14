@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Google
+Icon=/opt/extras.ubuntu.com/useful-websites/share/useful-websites/icons/google_logo.svg
+Exec=x-www-browser https://www.google.es
+Comment=Google
+Categories=Network;
+Terminal=false

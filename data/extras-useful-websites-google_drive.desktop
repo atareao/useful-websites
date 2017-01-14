@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Google Drive
+Icon=/opt/extras.ubuntu.com/useful-websites/share/useful-websites/icons/google_drive_logo.svg
+Exec=x-www-browser https://drive.google.com/drive/#my-drive
+Comment=Google Drive
+Categories=Network;
+Terminal=false

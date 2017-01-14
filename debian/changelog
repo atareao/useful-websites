@@ -1,0 +1,18 @@
+useful-websites (0.2.0-0extras16.10.0) xenial; urgency=medium
+
+  * Removed Copy
+  * Added Pixlr
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 14 Jan 2017 08:32:24 +0100
+
+useful-websites (0.1.1-0extras14.10.0) wily; urgency=medium
+
+  * Ported to wily
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Tue, 01 Mar 2016 20:38:00 +0100
+
+useful-websites (0.1.1-0extras14.04.0) trusty; urgency=medium
+
+  * First release
+
+ -- Lorenzo Carbonell <atareao@trusty>  Sun, 21 Dec 2014 20:25:19 +0100

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Twitter
+Icon=/opt/extras.ubuntu.com/useful-websites/share/useful-websites/icons/twitter_logo.svg
+Exec=x-www-browser https://twitter.com/
+Comment=Twitter
+Categories=Network;
+Terminal=false

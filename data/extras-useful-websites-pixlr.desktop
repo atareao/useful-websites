@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Pixlr
+Icon=/opt/extras.ubuntu.com/useful-websites/share/useful-websites/icons/pixlr_logo.svg
+Exec=x-www-browser https://pixlr.com/editor/
+Comment=Pixlr
+Categories=Network;
+Terminal=false
